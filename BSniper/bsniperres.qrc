@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/Picture">
+        <file>img/text3340.png</file>
+        <file>img/logo1.png</file>
+        <file>img/ADD.png</file>
+        <file>img/ADDGROUP.png</file>
+        <file>img/DEL.png</file>
+        <file>img/EDIT.png</file>
+        <file>img/B-icon.png</file>
+        <file>img/3-2-facebook-png-pic-thumb.png</file>
+        <file>img/11022011121442-icon_appRW.png</file>
+        <file>img/blogger.png</file>
+        <file>img/etipitaka.png</file>
+        <file>img/keeplogo-ig.png</file>
+    </qresource>
+</RCC>
